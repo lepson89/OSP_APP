@@ -6,6 +6,6 @@ public class App{
 public App(){}
 
 private void printText(String text){
-	System.out.println("AA"+text);
+	System.out.println("Kocham ANie");
 	}
 }
