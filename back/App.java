@@ -2,6 +2,7 @@ public class App{
 	
 	private int age;
 	private String imie;
+	private String nazwisko;
 	
 public App(){}
 
